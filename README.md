@@ -1,4 +1,4 @@
-*** A Large-Scale Dataset for Segmentation and Classification ***
+***A Large-Scale Dataset for Segmentation and Classification***
 
 Authors: O. Ulucan, D. Karakaya, M. Turkan
 Department of Electrical and Electronics Engineering, Izmir University of Economics, Izmir, Turkey
